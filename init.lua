@@ -121,7 +121,7 @@ vim.api.nvim_create_autocmd("BufWritePre", {
     end,
 })
 
--- Python-specific settings (based on your work with PyTorch and JAX)
+-- Python-specific settings
 vim.api.nvim_create_autocmd("FileType", {
     pattern = "python",
     callback = function()
