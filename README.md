@@ -1,4 +1,4 @@
-# personal neovim configuration file (nix shell support)
+# my personal neovim configuration file (nix shell support)
 
 ## Key Bindings
 
