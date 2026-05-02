@@ -1,4 +1,4 @@
-# my personal neovim configuration file (nix shell support)
+# my personal neovim configuration file
 
 ## Key Bindings
 
@@ -104,7 +104,6 @@
 1. Open a Python project:
 ```bash
 cd ~/my-python-project
-nix-shell
 nvim .
 ```
 
@@ -216,15 +215,7 @@ If you see treesitter parsing errors:
 
 ### LazyGit Not Found
 
-Install lazygit system-wide or add to `shell.nix`:
-
-```nix
-buildInputs = [
-  python3
-  neovim
-  lazygit  # Add this
-];
-```
+Install lazygit system-wide using your package manager.
 
 ## Requirements
 
