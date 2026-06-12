@@ -2,8 +2,6 @@
 
 Neovim 0.11+, lazy.nvim, native LSP (`vim.lsp.config`/`vim.lsp.enable`).
 
-See [QUICKSTART.md](QUICKSTART.md) for layout, requirements, setup, and Python/LaTeX details.
-
 ## Key bindings
 
 Leader is `<Space>`.
