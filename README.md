@@ -1,7 +1,6 @@
 # nvim config
 
-Personal Neovim setup for research work: Python/JAX, LaTeX papers, and Markdown
-notes. Neovim 0.11+, lazy.nvim, native LSP (`vim.lsp.config`/`vim.lsp.enable`).
+Neovim 0.11+, lazy.nvim, native LSP (`vim.lsp.config`/`vim.lsp.enable`).
 
 ## Layout
 
